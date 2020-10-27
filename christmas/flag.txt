@@ -1,0 +1,3 @@
+flag format: flag{}
+
+zip password: solution
