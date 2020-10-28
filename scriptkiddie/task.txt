@@ -6,4 +6,4 @@ One of my students felt like a cool ransomware hacker. This is just as funny as 
 
 FLAG format: flag{...}
 
-
+ZIP password: solution
