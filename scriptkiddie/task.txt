@@ -1,0 +1,9 @@
+VolgaCTF 2020 Qualifier
+
+Script kiddie
+
+One of my students felt like a cool ransomware hacker. This is just as funny as stupid, for we have all the traffic been written...
+
+FLAG format: flag{...}
+
+
